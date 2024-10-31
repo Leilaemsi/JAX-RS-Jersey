@@ -5,7 +5,8 @@ Vidéo de Démonstration
 
 Pour une démonstration complète, veuillez consulter la vidéo suivante : 
 
-Uploading video_jax.mp4…
+
+https://github.com/user-attachments/assets/062a1d9b-bfe6-4235-9c50-5337fbf57927
 
 
 
