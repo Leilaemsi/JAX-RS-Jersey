@@ -9,7 +9,6 @@ Uploading video_jax.mp4…
 
 
 
-
 1. Récupérer tous les comptes
 curl -X GET "http://localhost:8082/banque/comptes" -H "Accept: application/xml"
 2. Récupérer un compte par ID
